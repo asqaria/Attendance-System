@@ -93,3 +93,5 @@ This is an individual assignment. Upon submission of your assignment, you would 
 	-	Implementation of Database Tier – 10 %  
 -	Design & Program Documentation (20 %)
 -	Knowledge/Presentation (10 %)                                                          
+# 6.0 Video
+https://youtu.be/HOe12IkfMic
